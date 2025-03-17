@@ -1,0 +1,28 @@
+nltk==3.4.5
+torch @ https://download.pytorch.org/whl/cpu/torch-1.9.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+numpy==1.22.3
+pandas==1.4.2
+tqdm==4.64.0
+transformers==2.9.0
+sklearn==0.0
+networkx==2.8
+spacy==3.2.4
+supwsd==1.2.9
+tabulate==0.8.9
+en-core-sci-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_md-0.5.0.tar.gz
+
+aniso8601==9.0.1
+click==8.0.4
+Flask==2.1.1
+Flask-Cors==3.0.10
+Flask-RESTful==0.3.9
+gunicorn==20.1.0
+importlib-metadata==4.11.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+pytz==2022.1
+six==1.16.0
+Werkzeug==2.1.1
+XlsxWriter==3.0.3
+zipp==3.8.0
